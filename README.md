@@ -101,15 +101,7 @@ REST APIs | Microservices | Database Design | Authentication | Caching | WebSock
 
 ---
 
-## 🎮 Snake Eating My Contributions
 
-<div align="center">
-  
-![Snake animation](https://github.com/dheeraj-varma/dheeraj-varma/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
