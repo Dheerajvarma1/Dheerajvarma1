@@ -1,63 +1,81 @@
 # Hi, I’m Dheeraj Varma Subburi 👋
 
-**Aspiring AI Engineer | Cloud Enthusiast | Developer**
+Welcome to my GitHub! I’m passionate about building intelligent systems and crafting reliable, cloud-powered solutions. Here’s a bit about me and my favorite tools.
 
 ---
 
-I'm currently a **B.Tech. Computer Science and Engineering** student at **IIIT Dharwad** (expected graduation: 2026), passionate about building practical AI solutions and scalable cloud-native applications. My background blends hands-on research, industry internships, and independent projects at the intersection of **deep learning**, **computer vision**, and **cloud computing**.
+## 👨‍💻 About Me
+
+I'm a B.Tech. student at IIIT Dharwad fascinated by the intersection of **artificial intelligence** and **cloud technologies**. I thrive on solving meaningful problems—whether that’s deploying deep learning models at scale, developing computer vision systems, or designing polished user experiences.
 
 ---
 
-## 👨‍💻 Experience
+## 🚀 What I Do
 
-- **Luxury In Taste (LIT)**, Cloud-AI Intern  
-  *May 2025 – July 2025 | Hosur, India*  
-  - Developed and deployed cloud-based solutions on **Microsoft Azure**
-  - Integrated backend features using **Python** and **React.js**
-  - Optimized system performance and managed data with **SQL**
-  - Collaborated on designing scalable, reliable platforms[1]
+- Build and deploy AI solutions for real-world problems
+- Scale machine learning using **AWS** and **Azure**
+- Integrate robust backend logic and UI/UX for end-to-end products
+- Collaborate on multidisciplinary projects across tech
 
 ---
 
-## 🚀 Research & Projects
+## 🛠️ My Skills & Tech Stack
 
-- **Paddy Disease Detection (IIIT Dharwad)**  
-  Built a large-scale image classification model (TensorFlow/Xception) on AWS EC2 HPC for accurate crop health monitoring, leveraging GPU acceleration & parallel processing[1].
+### Programming Languages & Frameworks
 
-- **AI-driven Educational Content Generator**  
-  Designed a robust NLP system using transformer models (Ollama API) to auto-generate structured lesson guides, optimized for scalable, distributed deployment (TensorFlow MultiWorkerMirroredStrategy)[1].
+- ![#F7DF1E](https://img.shields.io/badge/-Python-F7DF1E?logo=python&logoColor=3776AB) **Python**
+- ![#00599C](https://img.shields.io/badge/-SQL-00599C?logo=mysql&logoColor=white) **SQL**
+- ![#00599C](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) **C++**
+- ![#F7DF1E](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) **JavaScript**
+- ![#007ACC](https://img.shields.io/badge/-Node.js-007ACC?logo=node.js) **Node.js**
+- ![#61DAFB](https://img.shields.io/badge/-React-61DAFB?logo=react) **React.js**
+- Django, Flutter, Linux Shell
 
-- **FootballVision:** *Real-Time Football Analytics System*  
-  End-to-end deep learning analytics with **YOLO** and computer vision—real-time player, ball, and referee detection, tactical map generation, and spatial team analysis[1].
+### AI, ML & Data Science
+
+- ![#FF6F00](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) **TensorFlow**
+- ![#EE4C2C](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) **PyTorch**
+- ![#F7B42C](https://img.shields.io/badge/-Keras-F7B42C?logo=keras&logoColor=white) **Keras**
+- Hugging Face Transformers, Scikit-learn, Pandas, NumPy, OpenCV, YOLO, Matplotlib, Seaborn
+
+### Cloud & DevOps
+
+- ![#232F3E](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws) **AWS:** EC2, S3, Lambda
+- ![#0078D4](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure) **Azure:** Functions, DevOps Pipelines
+- ![#2496ED](https://img.shields.io/badge/-Docker-2496ED?logo=docker) **Docker**
+- ![#F05032](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) **Git**
+
+### Frontend & Design
+
+- React.js, Flutter
+- UI/UX design & custom component development
 
 ---
 
-## 🛠️ Skills
+## 💻 Technologies I Love
 
-- **Languages:** Python, SQL, C++, JavaScript, Django, Node.js, Flutter, Linux Shell
-- **AI/ML:** TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face, OpenCV
-- **Tech:** Deep Learning, Transformers, Generative AI, Contrastive Learning, Computer Vision, NLP
-- **Cloud/DevOps:** AWS (EC2, S3, Lambda), Azure, Docker, Git
-- **Data:** Pandas, NumPy, Matplotlib, Seaborn
-- **Other:** UI/UX design, consistent styling and custom component development[3][2]
-
----
-
-## 🏆 Awards & Certifications
-
-- **SQL for Data Analytics** (*Internshala, 2024*)
-- **Data Science** (*Internshala, 2024*)
-- **Machine Learning** (*Internshala, 2024*)
-- **JEE Mains 2022:** 94.5 Percentile (Top 5.5%)[1]
+| Area             | Tools / Platforms                                           |
+|------------------|------------------------------------------------------------|
+| Programming      | <span style="color:#F7DF1E">Python</span>, <span style="color:#00599C">C++</span>, JavaScript, Node.js, Django |
+| ML/DL Frameworks | <span style="color:#FF6F00">TensorFlow</span>, <span style="color:#EE4C2C">PyTorch</span>, Hugging Face, Scikit-learn |
+| Cloud            | <span style="color:#232F3E">AWS</span>, <span style="color:#0078D4">Azure</span>, Docker                    |
+| Data Science     | Pandas, NumPy, Matplotlib, Seaborn, SQL                    |
+| Computer Vision  | OpenCV, YOLO                                               |
+| Frontend         | React.js, Flutter, UI/UX tools                             |
 
 ---
 
-## 📫 Connect with Me
+## 🏆 Recent Highlights
+
+- **Paddy Disease Detection:** Built large-scale image recognition for crop health monitoring (AWS, TensorFlow).
+- **AI-driven Content Generator:** Developed automatic lesson-plan generation using transformers (NLP, TensorFlow distributed training).
+- **FootballVision:** Deployed a deep learning-powered real-time football analytics platform (YOLO, CV).
+
+---
+
+## 📫 Let’s Connect!
 
 - **Email:** dheerajvarma031@gmail.com
-- **LinkedIn:** [Add your LinkedIn URL here]
+- **LinkedIn:** [linkedin.com/in/dheeraj-varma-5061342b1/](https://www.linkedin.com/in/dheeraj-varma-5061342b1/)
 
----
-
-*Let's create impactful, intelligent solutions together!*
-
+I’m always up for collaborating, learning, and building impactful tech. Let’s create something awesome together!
