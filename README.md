@@ -1,123 +1,94 @@
-# Hi, I'm Dheeraj 👋 
+# Dheeraj Varma
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=AI%2FML+Specialist;Backend+Developer;Python+Expert;OpenCV+Contributor" alt="Typing SVG" />
-</div>
+AI / ML Engineer | Backend Developer | Computer Vision & NLP
 
 ---
 
-## 🔍 About Me
+## Profile Summary
 
-I'm an **AI/ML Specialist** with strong **backend development** expertise, passionate about building intelligent systems and scalable architectures. My focus areas include:
+I am an AI/ML Engineer with strong backend development expertise, focused on building intelligent, scalable, and production-ready systems. My work spans machine learning model development, computer vision pipelines, backend APIs for AI services, and optimization for real-world deployment.
 
-- Developing and deploying **machine learning models**
-- Building **high-performance backend services**
-- Implementing **computer vision** solutions
-- Optimizing **deep learning pipelines**
-- Creating **RESTful APIs** for AI applications
+I am particularly interested in applied AI systems, multimodal models, and end-to-end ML pipelines that bridge research and production.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Expertise
 
-### 🤖 AI/ML Specialization
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-yellow?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### Artificial Intelligence & Machine Learning
+- Deep Learning and Neural Networks
+- Transformers and Large Language Models (LLMs)
+- Computer Vision (Detection, Tracking, Image Processing)
+- Natural Language Processing
+- Generative AI and Model Fine-tuning
+- Model Optimization and Inference Acceleration
 
-**Expertise:**  
-Deep Learning | Transformers | Computer Vision | NLP | Generative AI | Model Optimization
-
-</div>
-
-### ⚙️ Backend Development
-<div align="center">
-  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Backend Skills:**  
-REST APIs | Microservices | Database Design | Authentication | Caching | WebSockets
-
-</div>
-
-### ☁️ Cloud & DevOps
-<div align="center">
-  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+**Frameworks & Libraries:**  
+Python, PyTorch, TensorFlow, OpenCV, Hugging Face, Scikit-learn
 
 ---
 
-## 📊 GitHub Stats
+### Backend Engineering
+- RESTful API Design and Development
+- Microservices Architecture
+- Authentication and Authorization (JWT, RBAC)
+- Database Design and Query Optimization
+- Caching and Asynchronous Processing
+- WebSockets and Real-time Systems
 
-<div align="center">
-  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheeraj-varma&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-varma&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=dheeraj-varma&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🧩 Featured Projects
-
-### 🤖 AI/ML Projects
-- **Vision Transformer Implementation** - Custom ViT model for image classification
-- **LLM Fine-Tuning** - Adapted open-source LLMs for domain-specific tasks
-- **Real-time Object Detection** - Optimized YOLO model for edge devices
-
-### ⚙️ Backend Projects
-- **Scalable API Service** - FastAPI microservice with JWT auth
-- **AI Model Serving** - Django backend for ML model deployment
-- **High-performance ETL** - Data processing pipeline with Redis queue
+**Technologies:**  
+Django, FastAPI, Flask, Node.js, Redis, MongoDB, PostgreSQL
 
 ---
 
-## 🏆 GitHub Trophies
+### Cloud & DevOps
+- Containerization and Deployment
+- CI/CD Pipelines
+- Cloud Infrastructure Basics
+- Linux-based Development Environments
 
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=dheeraj-varma&theme=radical&no-frame=true&row=2&column=4)
-
-</div>
-
----
-
-
-
-## 📫 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-varma-5061342b1/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheerajvarma031@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yourprofile)
-
-</div>
+**Tools:**  
+AWS, Docker, Kubernetes, Git, Linux
 
 ---
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=dheeraj-varma&label=Profile+Views&color=blueviolet&style=flat)
+## Featured Projects
 
-</div>
+### AI / ML Projects
+- **Vision Transformer Implementation**  
+  Designed and trained a custom ViT model for image classification tasks.
+
+- **LLM Fine-Tuning Pipeline**  
+  Fine-tuned open-source large language models for domain-specific use cases, including prompt engineering and embedding optimization.
+
+- **Real-Time Object Detection and Tracking**  
+  Built and optimized YOLO-based detection pipelines for real-time inference and edge deployment.
+
+---
+
+### Backend & Systems Projects
+- **Scalable API Service**  
+  Developed a FastAPI-based microservice architecture with JWT authentication and role-based access control.
+
+- **AI Model Serving Platform**  
+  Implemented a Django backend for deploying and managing machine learning models in production.
+
+- **High-Performance Data Processing Pipeline**  
+  Designed ETL workflows using Redis-based task queues for efficient data ingestion and processing.
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheeraj-varma&show_icons=true&theme=default&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-varma&layout=compact&theme=default&hide_border=true)
+
+---
+
+## Contact & Professional Links
+
+- **LinkedIn:** https://www.linkedin.com/in/dheeraj-varma-5061342b1/
+- **Email:** dheerajvarma031@gmail.com
+- **GitHub:** https://github.com/dheeraj-varma
+
+---
