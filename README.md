@@ -77,14 +77,6 @@ AWS, Docker, Kubernetes, Git, Linux
 
 ---
 
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dheeraj-varma&show_icons=true&theme=default&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheeraj-varma&layout=compact&theme=default&hide_border=true)
-
----
-
 ## Contact & Professional Links
 
 - **LinkedIn:** https://www.linkedin.com/in/dheeraj-varma-5061342b1/
