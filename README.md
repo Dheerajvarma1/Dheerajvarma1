@@ -6,7 +6,7 @@
 
 ---
 
-## Professional Summary
+## About Me
 
 I am an AI/ML Engineer with strong backend development expertise, focused on building intelligent, scalable, and production-ready systems. My work involves developing machine learning models, designing robust backend services, implementing computer vision pipelines, and deploying AI solutions efficiently.
 
